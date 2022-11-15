@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "XtQPKNhtw8hVKwR2Prk7V6aNvEoyqOhn55UYBAkkfTs=",
+  "Source": "LoginWebApi",
+  "BasePath": "_content/LoginWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LoginWebApi\\wwwroot",
+      "Source": "LoginWebApi",
+      "ContentRoot": "C:\\Users\\anyelo.giron\\RiderProjects\\LoginWebApi\\LoginWebApi\\wwwroot\\",
+      "BasePath": "_content/LoginWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anyelo.giron\\RiderProjects\\LoginWebApi\\LoginWebApi\\wwwroot\\Archivo 1.txt",
+      "SourceId": "LoginWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anyelo.giron\\RiderProjects\\LoginWebApi\\LoginWebApi\\wwwroot\\",
+      "BasePath": "_content/LoginWebApi",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    }
+  ]
+}
